@@ -1,3 +1,10 @@
+/**
+ * Class Date: 08-08-2019
+ * OverView: 
+ * - working with JSX Views. 
+ * - ScrollView
+ */
+
 import React from 'react';
 import { Text, View, ScrollView, SafeAreaView, ImageBackground } from 'react-native';
 

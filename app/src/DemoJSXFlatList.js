@@ -1,3 +1,10 @@
+/**
+ * Class Date: 08-08-2019
+ * OverView: 
+ * - working with JSX Views. 
+ * - FlatList
+ */
+
 import React from 'react';
 import { Text, View, ScrollView, SafeAreaView, ImageBackground, FlatList } from 'react-native';
 

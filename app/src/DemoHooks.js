@@ -1,3 +1,8 @@
+/**
+ * Class Date: 08-16-2019
+ * OverView: Lifecycle
+ */
+
 import React, { useState, useEffect, useCallback } from 'react'
 import { View, Text, TouchableOpacity, Dimensions, SafeAreaView } from 'react-native'
 import useCountRenders from './useCountRenders';
